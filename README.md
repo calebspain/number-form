@@ -2,7 +2,7 @@
 
 
 ## Example usage in Vue.js
-
+```
 <template>
   <input type="text" v-model="phone" @keyup="formatPhone" />
 </template>
@@ -22,3 +22,4 @@
     }
   }
 </script>
+```
