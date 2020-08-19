@@ -17,7 +17,7 @@
     },
     methods: {
       formatPhone(event) {
-        this.phone = numberForm(this.phone, 'xxxx-xxxx-xxxx-xxxx', event)
+        this.phone = numberForm(this.phone, 'xxx-xxx-xxxx', event)
       }
     }
   }
