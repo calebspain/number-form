@@ -1,0 +1,7 @@
+{
+  "name": "number-form",
+  "version": "1.0.8",
+  "description": "An easy way to format your numbers",
+  "main": "index.js",
+  "author": "Caleb Spain"
+}
