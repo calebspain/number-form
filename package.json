@@ -1,6 +1,6 @@
 {
   "name": "number-form",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An easy way to format your numbers",
   "main": "index.js",
   "author": "Caleb Spain",
