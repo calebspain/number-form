@@ -4,5 +4,15 @@
   "description": "An easy way to format your numbers",
   "main": "index.js",
   "author": "Caleb Spain",
-  "repository": "calebspain/number-form"
+  "repository": "calebspain/number-form",
+  "keywords": [
+    "format",
+    "numbers",
+    "phone",
+    "credit card",
+    "date",
+    "javascript",
+    "js",
+    "vue"
+  ]
 }
