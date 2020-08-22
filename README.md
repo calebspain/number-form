@@ -1,6 +1,7 @@
 # Number Form
 
-###### An easy way to format your numbers
+##### An easy way to format your numbers
+
 
 #### Install
 ```
@@ -16,8 +17,8 @@ import { numberForm } from 'number-form';
 ```
 var formattedValue = numberForm(originalValue, template, event);
 ```
-###### Where 'template' is a string that represents the format
-###### you would like your numbers to form to.
+###### Where 'template' is a string that represents the format you would like your numbers to form to.
+
 
 #### Example of commonly used templates
 ```
@@ -26,6 +27,7 @@ Credit cards: 'xxxx-xxxx-xxxx-xxxx'
 Dates: 'xx/xx/xxxx'
 ```
 ###### Where your x's will be replaced by the user's input.
+
 
 #### Example usage in Vue.js
 ```
@@ -38,7 +40,7 @@ Dates: 'xx/xx/xxxx'
   export default {
     data() {
       return {
-        phone: '',
+        phone: ''
       }
     },
     methods: {
